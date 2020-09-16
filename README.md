@@ -2,4 +2,4 @@ The files contained are for work day planner that pans out a traditional work da
 
 <img src="assets/images/day-planner.png" alt="image of deployed site">
 
-<a href="index.html">Link to "Work Day Scheduler"</a>
+<a href="https://razaqabdul8.github.io/work_day_scheduler">Link to "Work Day Scheduler"</a>
